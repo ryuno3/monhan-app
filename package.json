@@ -1,0 +1,13 @@
+{
+  "name": "monhan-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "workspaces": [
+    "apps/*"
+  ],
+  "author": "Ryunosuke Nishino",
+  "license": "ISC",
+  "description": ""
+}
