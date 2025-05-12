@@ -1,4 +1,4 @@
-import { Monster } from "@/app/page";
+import { Monster } from "@/types/monsters/type";
 import Image from "next/image";
 
 export default function MonsterList({ monsters }: { monsters: Monster[] }): React.JSX.Element {
